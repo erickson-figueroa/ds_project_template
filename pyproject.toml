@@ -1,0 +1,52 @@
+[tool.poetry]
+name = "pyr-wiki-text-scraping"
+version = "0.1.0"
+description = "Analyzing text data from wiki about data science"
+authors = ["Erickson Figueroa <indetrd@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.2.1"
+numpy = "^1.26.4"
+matplotlib = "^3.8.3"
+seaborn = "^0.13.2"
+scikit-learn = "^1.4.1.post1"
+statistics = "^1.0.3.5"
+statsmodels = "^0.14.1"
+sweetviz = "^2.3.1"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.1.1"
+pre-commit = "^3.6.2"
+ipykernel = "^6.29.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+# Exclude a variety of commonly ignored directories.
+exclude = [
+    ".bzr",
+    ".direnv",
+    ".eggs",
+    ".git",
+    ".git-rewrite",
+    ".hg",
+    ".mypy_cache",
+    ".nox",
+    ".pants.d",
+    ".pytype",
+    ".ruff_cache",
+    ".svn",
+    ".tox",
+    ".venv",
+    "__pypackages__",
+    "_build",
+    "buck-out",
+    "build",
+    "dist",
+    "node_modules",
+    "venv",
+]
