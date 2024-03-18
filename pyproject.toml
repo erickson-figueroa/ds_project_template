@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "pyr-wiki-text-scraping"
+name = "Lineal Regresion Analysis"
 version = "0.1.0"
-description = "Analyzing text data from wiki about data science"
+description = "Well-organized and adaptable data science projects structure for efficient workflow"
 authors = ["Erickson Figueroa <indetrd@gmail.com>"]
 license = "MIT"
 readme = "README.md"
