@@ -1,5 +1,5 @@
 Project: "Your Project Name"
-==============================
+============================
 
 Description: "Project Description"
 
