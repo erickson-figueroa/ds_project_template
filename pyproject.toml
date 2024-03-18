@@ -1,5 +1,9 @@
 [tool.poetry]
+<<<<<<< HEAD
 name = "Lineal Regresion Analysis"
+=======
+name = "Data science project template"
+>>>>>>> 72e790b (a new pyproject.toml file change)
 version = "0.1.0"
 description = "Well-organized and adaptable data science projects structure for efficient workflow"
 authors = ["Erickson Figueroa <indetrd@gmail.com>"]
