@@ -1,0 +1,18 @@
+hydra:
+  output_subdir: null   #  This tells Hydra not to create a separate subdirectory for the output files. 
+                        #  By default, Hydra creates a subdirectory with a unique identifier to store the outputs. 
+                        #  Setting it to null disables 
+                        #  this behavior.
+  run:
+    dir: .              #  This specifies the working directory for the script or application being executed by Hydra. 
+                        #  Here, . refers to the current directory.
+
+defaults:               # This section defines default values for configuration options. 
+  - process: process1   # This sets a default value for an option named process.
+  - _self_              # This is a special Hydra directive that refers to the current configuration itself.
+
+                           
+data:                       # This section defines data paths used by the script/application. 
+  raw: data/raw/sample.csv
+  processed: data/processed/processed.csv
+  final: data/final/final.csv
