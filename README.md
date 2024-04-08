@@ -11,6 +11,7 @@ Project Structure
     ├── LICENSE            <- Project license agreements.
     ├── Makefile           <- Install and configure the environment using commands like `make env`
     ├── README.md          <- The top-level README for developers using this project.
+    ├── config             <- Folder for hydra implementation and configuration files.
     ├── data
     │   ├── final          <- The final, canonical data sets for modeling.
     │   ├── processed      <- Data that has been cleaned and transformed.

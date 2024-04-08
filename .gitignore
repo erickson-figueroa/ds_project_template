@@ -110,3 +110,6 @@ poetry.lock
 
 # Hydra logs
 outputs
+
+# ignore any tracking data subfolders
+/data
