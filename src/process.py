@@ -1,5 +1,6 @@
 """
 This is the demo code that uses hydra to access the parameters in under the directory config.
+@hydra access to process1.yaml demo file.
 
 Author: Erickson Figueroa
 """

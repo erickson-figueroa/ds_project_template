@@ -111,7 +111,7 @@ poetry.lock
 # Hydra logs
 outputs
 
-# ignore any tracking data subfolders
+# ignore any tracking data subfolders that uses dvc
 /data/final/*
 /data/processed/*
 /data/raw/*
