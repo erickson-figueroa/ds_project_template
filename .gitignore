@@ -112,4 +112,6 @@ poetry.lock
 outputs
 
 # ignore any tracking data subfolders
-/data
+/data/final/
+/data/processed/
+/data/raw/
