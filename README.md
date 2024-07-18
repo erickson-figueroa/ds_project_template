@@ -52,7 +52,7 @@ Project Structure
 
 
 
-### List of advanced tools, frameworks and useful libraries for specific projects
+### List of useful libraries for specific projects
 
 You can add them directly inside pyproject.toml file:    
 
