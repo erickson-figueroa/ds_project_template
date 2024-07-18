@@ -66,36 +66,23 @@ e.g.: poetry add pandas = "^2.2.1"
 
 Then, poetry will install the last version of the package if you have not specified a version.
 
-Useful advanced tools and packages list:
+Example of useful packages that you could add:
 
 - Spark -->  https://spark.apache.org/
 - SciPy -->  https://scipy.org/
 - TensorFlow --> https://www.tensorflow.org/
 - Keras --> https://keras.io/
 - PyTorch --> https://pytorch.org/
-- Plotly --> https://plotly.com/
-- Mlflow --> https://mlflow.org/
-- Huggingface --> https://huggingface.co/
-- LightGBM --> https://lightgbm.readthedocs.io/en/stable/
-- PyTensor --> https://pytensor.readthedocs.io/en/latest/
-- ELI5 -->  https://eli5.readthedocs.io/en/latest/overview.html
-- NuPIC --> https://github.com/numenta/nupic-legacy?tab=readme-ov-file
-- Ramp -->  https://ramp.readthedocs.io/en/latest/
-- Bob -->   https://pypi.org/project/bob/
-- PyBrain --> https://github.com/pybrain/pybrain
-- Caffe2 --> https://caffe2.ai/
-- Chainer --> https://chainer.org/
 - Airflow --> https://airflow.apache.org/
 - Kafka --> https://kafka.apache.org/
-- Requests --> https://requests.readthedocs.io/en/latest/
 - Scrapy -->  https://scrapy.org/
+- Requests --> https://requests.readthedocs.io/en/latest/
 - BeautifulSoup --> https://beautiful-soup-4.readthedocs.io/en/latest/
 - FastAPI --> https://fastapi.tiangolo.com/
 - Flask --> https://flask.palletsprojects.com/en/3.0.x/
 - SQL Alchemy --> https://www.sqlalchemy.org/
 - Sqlite --> https://www.sqlite.org/
-- tailwindcss --> https://tailwindcss.com/
-- Node --> https://nodejs.org/en
-- npm --> https://www.npmjs.com/
-- React --> https://react.dev/
-- React Native --> https://reactnative.dev/
+- LightGBM --> https://lightgbm.readthedocs.io/en/stable/
+- PyTensor --> https://pytensor.readthedocs.io/en/latest/
+- ELI5 -->  https://eli5.readthedocs.io/en/latest/overview.html
+- Bob -->   https://pypi.org/project/bob/
