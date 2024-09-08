@@ -1,4 +1,4 @@
-#Data Science Project Template
+# Data Science Project Template
 
 This project template provides a well-organized and adaptable structure to streamline data science workflows. It ensures that data science projects are set up efficiently, making it easy to manage, modify, and scale as needed. The template is based on best practices for data science, allowing for seamless collaboration and reproducibility.
 
