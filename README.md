@@ -2,7 +2,22 @@
 
 This project template provides a well-organized and adaptable structure to streamline data science workflows. It ensures that data science projects are set up efficiently, making it easy to manage, modify, and scale as needed. The template is based on best practices for data science, allowing for seamless collaboration and reproducibility.
 
-Project Structure
+## Project Purpose
+
+The purpose of this project template is to provide a consistent, organized structure for data science projects. It facilitates efficient data handling, model training, and reporting while ensuring all necessary files and folders are in place for a smooth workflow.
+
+## Principal Objective
+
+The main objective of this template is to improve workflow efficiency by offering a standardized project structure. This helps data scientists focus on experimentation and model development, without needing to worry about managing files and environments.
+
+## Benefits
+
+- <b>Organization:</b> A clear folder structure separates raw data, processed data, models, and notebooks.
+- <b>Scalability:</b> Easily adaptable for projects of different sizes and complexity.
+- <b>Reproducibility:</b> Clear versioning of dependencies and easy-to-follow steps for reproducing results.
+- <b>Collaboration:</b> The structure makes it easy for multiple team members to work on the same project.
+
+## Project Structure
 -----------------
 
     ├── LICENSE            <- Project license agreements.
@@ -42,14 +57,17 @@ Project Structure
     │       └── visualize.py
     │
     └── TODO_tasks.txt     <- File to manage the tasks to be done ; You need to install the vs code extension: TODO MD by Alexander. 
-                              
+
+## Key Features
+
+- <b>Structured Data Handling:</b> Separate folders for raw, processed, and final data.
+- <b>Model Management:</b> Trained models and predictions are stored and easily accessible.
+- <b>Version Control:</b> Ensures that dependencies are tracked and reproducible across environments.
+- <b>Documentation:</b> Includes spaces for code documentation and project reporting.
+                            
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a> and <a target="_blank" href="https://github.com/khuyentran1401/data-science-template">data-science-template</a></small></p>
-
-
-
-### List of useful libraries for specific projects
+## List of useful libraries for specific projects
 
 You can add them directly inside pyproject.toml file:    
 
@@ -83,3 +101,9 @@ Example of useful packages that you could add:
 - PyTensor --> https://pytensor.readthedocs.io/en/latest/
 - ELI5 -->  https://eli5.readthedocs.io/en/latest/overview.html
 - Bob -->   https://pypi.org/project/bob/
+
+## Getting Started
+
+To get started, clone this repository and follow the above steps to set up your environment. You can modify the structure as needed to fit your specific project requirements.
+
+<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a> and <a target="_blank" href="https://github.com/khuyentran1401/data-science-template">data-science-template</a></small></p>
