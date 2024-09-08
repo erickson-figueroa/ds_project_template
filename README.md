@@ -64,6 +64,18 @@ The main objective of this template is to improve workflow efficiency by offerin
 - <b>Model Management:</b> Trained models and predictions are stored and easily accessible.
 - <b>Version Control:</b> Ensures that dependencies are tracked and reproducible across environments.
 - <b>Documentation:</b> Includes spaces for code documentation and project reporting.
+
+## Technologies Used
+
+
+- Poetry
+- Hydra
+- Pre-commit
+- Make File
+- DVC
+- Cookiecutter
+
+<b>Note:</b> In the home page of my profile and in the section of this project, you can find the official links of each of these technologies.
                             
 --------
 
